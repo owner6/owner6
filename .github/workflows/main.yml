@@ -20,7 +20,7 @@ jobs:
         with:
           build_dir: dist
           target_branch: output
-          repo: owner6/owner6/readme
+          repo: owner6/owner6/#readme
           keep_history: false
           allow_empty_commit: true
           absolute_build_dir: false
