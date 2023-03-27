@@ -15,5 +15,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=owner6&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+![Snake animation]( https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg )
 
