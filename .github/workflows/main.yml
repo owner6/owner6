@@ -1,8 +1,8 @@
-name: Generate Data
+name: Generate Datason
 
 schedule:
   # execute every 12 hours
-  - cron: "0 */12 * * *"
+  - owner6: "0 */12 * * *"
 
 workflow_dispatch:
 
