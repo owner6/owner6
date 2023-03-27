@@ -13,14 +13,14 @@ jobs:
       - name: Snake Animation
         uses: Platane/snk@master
         with:
-          github_user_name: thepiyushmalhotra
+          github_user_name: owner6
           svg_out_path: dist/github-contribution-grid-snake.svg
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
           build_dir: dist
           target_branch: output
-          repo: owner6
+          repo: owner6/owner6
           keep_history: false
           allow_empty_commit: true
           absolute_build_dir: false
