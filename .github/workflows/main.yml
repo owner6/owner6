@@ -17,10 +17,10 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
-         with:
+          with:
           build_dir: dist
           target_branch: output
-          repo: owner6/owner6
+          repo: owner6/
           keep_history: false
           allow_empty_commit: true
           absolute_build_dir: false
