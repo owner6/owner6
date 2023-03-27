@@ -20,7 +20,7 @@ jobs:
         with:
           build_dir: dist
           target_branch: output
-          repo: <your-github-username>/<your-github-repo>
+          repo: <owner6-github-username>/<owner6-github-repo>
           keep_history: false
           allow_empty_commit: true
           absolute_build_dir: false
