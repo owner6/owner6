@@ -9,5 +9,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=owner6&theme=solarized_dark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=owner6&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dever4eg&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
-<figure><embed src="https://wakatime.com/share/@804ffc24-10bd-4edf-a1ad-691f57b69036/5678e88c-59b4-4d44-a679-92162b922b62.svg"></embed></figure>
