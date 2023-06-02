@@ -6,8 +6,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owner6&show_icons=true)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=owner6&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=owner6&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dever4eg&theme=solarized_dark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=owner6&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=dever4eg&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
-
