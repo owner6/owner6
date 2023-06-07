@@ -1,6 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Javascript+developer)](https://git.io/typing-svg)
 <h1 align="left">Hi there, I'm <a href="#" target="_blank">Vladyslav</a> 
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Javascript+developer)](https://git.io/typing-svg)
+   
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
