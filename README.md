@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Javascript+developer)](https://git.io/typing-svg)
-<h2 align="left">Hi there, I'm <a href="#" target="_blank">Vladyslav</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="15"/></h2>
+<h1 align="left">Hi there, I'm <a href="#" target="_blank">Vladyslav</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="15"/></h1>
 
 [![wakatime](https://wakatime.com/badge/user/804ffc24-10bd-4edf-a1ad-691f57b69036.svg)](https://wakatime.com/@804ffc24-10bd-4edf-a1ad-691f57b69036) - Досвід роботи над проектами
 
