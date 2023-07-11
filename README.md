@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Javascript+developer)](https://git.io/typing-svg)
 
-[![wakatime](https://wakatime.com/badge/user/804ffc24-10bd-4edf-a1ad-691f57b69036.svg)](https://wakatime.com/@804ffc24-10bd-4edf-a1ad-691f57b69036) - work experience on projects.
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=owner6&theme=solarized_dark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owner6&show_icons=true)
