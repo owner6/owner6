@@ -32,5 +32,3 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/owner6/contributions?format=svg&private=true)  
