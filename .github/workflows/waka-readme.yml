@@ -18,4 +18,3 @@ jobs:
           SHOW_TIME: "true"
           SECTION_NAME: "coding_stats"
           LANG_COUNT: "1000" # Велике значення для "необмеженості"
-          STOP_AT_OTHER: "false" # Не ховати мови в "Other"
