@@ -16,20 +16,6 @@ Skills: Javascript, HTML/CSS, Vue.js, Vue Router, Vue Composition API, SCSS, Tai
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=owner6&show_icons=true&count_private=true)
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 31 May 2023 - To: 08 March 2025
-
-Total Time: 35 hrs 29 mins
-
-JavaScript   34 hrs 56 mins  ████████████████████████▓   98.18 %
-Bash         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-HTML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-```
-
 <!--END_SECTION:waka-->
-
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/owner6/contributions?format=svg&private=true)  
