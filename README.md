@@ -19,17 +19,26 @@ Skills: Javascript, HTML/CSS, Vue.js, Vue Router, Vue Composition API, SCSS, Tai
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2023 - To: 08 March 2025
+From: 31 May 2023 - To: 09 March 2025
 
-Total Time: 35 hrs 29 mins
+Total Time: 36 hrs 54 mins
 
-JavaScript   34 hrs 56 mins  ████████████████████████▓   98.18 %
-Bash         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-HTML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript       34 hrs 56 mins  ███████████████████████▓░   94.43 %
+YAML             53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Bash             25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Markdown         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Prisma           8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Other            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+HTML             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+XML              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+INI              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Vue.js           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TOML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+SCSS             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+.env file        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
