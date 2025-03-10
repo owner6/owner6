@@ -31,3 +31,5 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=owner6&theme=default)
