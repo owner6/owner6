@@ -23,7 +23,8 @@
 - LinkedIn: [Vladyslav Onyshchenko](https://www.linkedin.com/in/vladyslav-onyshchenko/)  
 - Instagram: [onishchenko893](https://www.instagram.com/onishchenko893/)  
 - Twitter: [owner11471](https://x.com/owner11471)  
-- YouTube: [@OwnersGuide](https://www.youtube.com/channel/@OwnersGuide-)  
+- YouTube: [@OwnersGuide](https://www.youtube.com/@OwnersGuide-)  
+
 
 ---
 
