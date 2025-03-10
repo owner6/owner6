@@ -34,6 +34,9 @@
 
 ## 📊 GitHub Статистика  
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=owner6&theme=solarized_dark" alt="Profile Details" width="100%"/>
 </div>
