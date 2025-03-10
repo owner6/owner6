@@ -16,7 +16,7 @@ Skills: Javascript, HTML/CSS, Vue.js, Vue Router, Vue Composition API, SCSS, Tai
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owner6)](https://github.com/owner6/github-readme-stats)
 
 
-
+Карточка профиля: 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=owner6&theme=solarized_dark)
 
 Статистика языков в коммитах:
