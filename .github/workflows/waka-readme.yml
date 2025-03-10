@@ -20,3 +20,8 @@ jobs:
           SHOW_TOTAL: "true"
           SHOW_TIME: "true"
           LANG_COUNT: "1000" # Велике значення для "необмеженості"
+
+          SHOW_PROJECTS: "true"
+          SHOW_TIMEZONE: "true"
+          SHOW_TOTAL_CODE_TIME: "true"
+          SHOW_LOC_CHART: "true"
