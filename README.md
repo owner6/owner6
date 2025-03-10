@@ -39,7 +39,7 @@ Other            5 mins          ░░░░░░░░░░░░░░░�
 <br>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=owner6&theme=solarized_dark" alt="Данные по коммитам за сутки" style="width: 48%;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=owner6&theme=solarized_dark" alt="Данные по коммитам за сутки" style="width: 100%;"/>
 </div>
 
 
