@@ -76,3 +76,5 @@ Text             0 secs          ░░░░░░░░░░░░░░░�
 
 ## 💡 Хоббі  
 fingerstyle, programming  
+
+![Snake animation](https://github.com/owner6/owner6.github.io/blob/gh-pages/snake.svg)
