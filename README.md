@@ -13,6 +13,8 @@ Skills: Javascript, HTML/CSS, Vue.js, Vue Router, Vue Composition API, SCSS, Tai
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=owner6)](https://github.com/ryo-ma/github-profile-trophy)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=owner6&theme=default)
+
 
 <!--START_SECTION:waka-->
 
@@ -31,5 +33,3 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=owner6&theme=default)
