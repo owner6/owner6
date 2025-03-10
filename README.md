@@ -20,7 +20,6 @@
 
 ## 📫 Як зі мною зв’язатися  
 - Telegram: [t.me/Owner10](https://t.me/Owner10)  
-- GitHub: [owner6](https://github.com/owner6)  
 - LinkedIn: [Vladyslav Onyshchenko](https://www.linkedin.com/in/vladyslav-onyshchenko/)  
 - Instagram: [onishchenko893](https://www.instagram.com/onishchenko893/)  
 - Twitter: [owner11471](https://x.com/owner11471)  
