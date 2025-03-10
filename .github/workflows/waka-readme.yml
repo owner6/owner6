@@ -19,5 +19,4 @@ jobs:
           LANG_COUNT: 100
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          IGNORED_LANGUAGES: YAML JSON TOML
           STOP_AT_OTHER: false
