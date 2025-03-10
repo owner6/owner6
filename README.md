@@ -37,4 +37,15 @@ Skills: Javascript, HTML/CSS, Vue.js, Vue Router, Vue Composition API, SCSS, Tai
 </div>
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 37 hrs
+
+JavaScript       34 hrs 56 mins  ███████████████████████▓░   94.43 %
+Bash             25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Markdown         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Prisma           8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Other            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+```
+
 <!--END_SECTION:waka-->
