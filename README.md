@@ -18,18 +18,23 @@ Skills: Javascript, HTML/CSS, Vue.js, Vue Router, Vue Composition API, SCSS, Tai
 
 ## 📊 GitHub Статистика
 
-| Карточка профиля | Статистика языков в коммитах |
-|------------------|------------------------------|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=owner6&theme=solarized_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=owner6&theme=solarized_dark) |
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=owner6&theme=solarized_dark" alt="Карточка профиля" width="100%"/>
+</div>
 
-| Статистика языков в репозиториях | Статистика профиля |
-|----------------------------------|--------------------|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=owner6&theme=solarized_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=owner6&theme=solarized_dark) |
+<br>
 
-| Данные по коммитам за сутки |
-|-----------------------------|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=owner6&theme=solarized_dark) |
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=owner6&theme=solarized_dark" alt="Статистика языков в коммитах" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=owner6&theme=solarized_dark" alt="Статистика языков в репозиториях" width="48%"/>
+</div>
 
+<br>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=owner6&theme=solarized_dark" alt="Статистика профиля" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=owner6&theme=solarized_dark" alt="Данные по коммитам за сутки" width="48%"/>
+</div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
