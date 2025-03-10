@@ -18,14 +18,9 @@
 ## 🌱 Що я вивчаю  
 - Поглиблюю знання у **Vue.js** та досліджую нові підходи до розробки.
 
-## 📫 Як зі мною зв’язатися  
-- Telegram: [t.me/Owner10](https://t.me/Owner10)  
-- LinkedIn: [Vladyslav Onyshchenko](https://www.linkedin.com/in/vladyslav-onyshchenko/)  
-- Instagram: [onishchenko893](https://www.instagram.com/onishchenko893/)  
-- Twitter: [owner11471](https://x.com/owner11471)  
-- YouTube: [@OwnersGuide](https://www.youtube.com/@OwnersGuide-)  
-
-
+## 📫 YouTube  
+- [@OwnersGuide](https://www.youtube.com/@OwnersGuide-)
+  
 ---
 
 ## 🌟 Мої досягнення  
