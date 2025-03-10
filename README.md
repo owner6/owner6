@@ -16,86 +16,21 @@ Skills: Javascript, HTML/CSS, Vue.js, Vue Router, Vue Composition API, SCSS, Tai
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owner6)](https://github.com/owner6/github-readme-stats)
 
 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=owner6&theme=solarized_dark)
+
+Статистика языков в коммитах:
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=owner6&theme=solarized_dark)
+
+Статистика языков в репозиториях:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=owner6&theme=solarized_dark)
+
+Статистика профиля:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=owner6&theme=solarized_dark)
+
+Данные по коммитам за сутки:
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=owner6&theme=solarized_dark)
+
+
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2037%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 42 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 37 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-🌆 Daytime                425 commits         ███████░░░░░░░░░░░░░░░░░░   26.33 % 
-🌃 Evening                797 commits         ████████████░░░░░░░░░░░░░   49.38 % 
-🌙 Night                  339 commits         █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   236 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Tuesday                  440 commits         ███████░░░░░░░░░░░░░░░░░░   27.26 % 
-Wednesday                231 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Thursday                 210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Friday                   107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-Saturday                 163 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Sunday                   227 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Kyiv
-
-💬 Programming Languages: 
-YAML                     52 mins             ███████████████░░░░░░░░░░   61.77 % 
-Markdown                 19 mins             ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-Prisma                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-XML                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-
-🔥 Editors: 
-WebStorm                 1 hr 24 mins        █████████████████████████   99.28 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-
-🐱‍💻 Projects: 
-owner6                   58 mins             █████████████████░░░░░░░░   68.97 % 
-Projects                 16 mins             █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-bazar4ik-back            9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-bazar4ik-front           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-
-💻 Operating System: 
-Linux                    1 hr 25 mins        █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               11 repos            █████████░░░░░░░░░░░░░░░░   37.93 % 
-HTML                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-Vue                      6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Less                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/owner6/owner6/main/assets/bar_graph.png)
-
-
- Last Updated on 10/03/2025 18:02:23 UTC
 <!--END_SECTION:waka-->
