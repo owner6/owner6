@@ -2,20 +2,21 @@ name: Waka Readme
 
 on:
   schedule:
+    # Запускается каждый день в 00:00 UTC
     - cron: "0 0 * * *"
-  workflow_dispatch:
+  workflow_dispatch: # Позволяет запускать вручную
 
 jobs:
   update-readme:
     name: Update Readme with WakaTime Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_TITLE: "true"
+          TIME_RANGE: "all_time" # Можно изменить на "all_time" или "last_30_days"
+          SHOW_TOTAL: "true"
+          SHOW_TIME: "true"
           SHOW_PROJECTS: "true"
-          SHOW_TIMEZONE: "true"
-          SHOW_TOTAL_CODE_TIME: "true"
-          SHOW_DAYS_OF_WEEK: "false"  # Отключает статистику по дням недели
-          TIME_RANGE: "all_time"      # Показывает статистику за все время
