@@ -13,6 +13,9 @@ Skills: Javascript, HTML/CSS, Vue.js, Vue Router, Vue Composition API, SCSS, Tai
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=owner6)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owner6)](https://github.com/owner6/github-readme-stats)
 
 
@@ -36,16 +39,4 @@ Skills: Javascript, HTML/CSS, Vue.js, Vue Router, Vue Composition API, SCSS, Tai
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=owner6&theme=solarized_dark" alt="Данные по коммитам за сутки" width="48%"/>
 </div>
 
-<!--START_SECTION:waka-->
 
-```txt
-Total Time: 37 hrs
-
-JavaScript       34 hrs 56 mins  ███████████████████████▓░   94.43 %
-Bash             25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-Markdown         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Prisma           8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Other            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-```
-
-<!--END_SECTION:waka-->
