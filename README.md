@@ -13,7 +13,7 @@ Skills: Javascript, HTML/CSS, Vue.js, Vue Router, Vue Composition API, SCSS, Tai
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=owner6)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owner6)](https://github.com/owner6/github-readme-stats)
 
 <!--START_SECTION:waka-->
 
@@ -40,7 +40,6 @@ Other            5 mins          ░░░░░░░░░░░░░░░�
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=owner6&theme=solarized_dark" alt="Данные по коммитам за сутки" style="width: 48%;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=owner6" alt="Статистика GitHub" style="width: 48%;"/>
 </div>
 
 
