@@ -39,13 +39,6 @@ Other            5 mins          ░░░░░░░░░░░░░░░�
 <br>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=owner6&theme=solarized_dark" alt="Статистика языков в коммитах" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=owner6&theme=solarized_dark" alt="Статистика языков в репозиториях" width="48%"/>
-</div>
-
-<br>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=owner6&theme=solarized_dark" alt="Статистика профиля" width="48%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=owner6&theme=solarized_dark" alt="Данные по коммитам за сутки" width="48%"/>
 </div>
