@@ -2,8 +2,8 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Запускается каждый день в полночь (UTC)
-  workflow_dispatch: # Позволяет запускать вручную
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -12,11 +12,11 @@ jobs:
       - uses: actions/checkout@v3
       - uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }} # Автоматически берет ваше имя пользователя
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg # Обычная змейка
-            dist/snake-dark.svg?palette=github-dark # Темная тема
-      - uses: actions/upload-artifact@v3
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+      - uses: actions/upload-artifact@v4
         with:
           name: snake-files
           path: dist/
@@ -27,4 +27,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
