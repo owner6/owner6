@@ -30,7 +30,7 @@
 
 ## 📊 GitHub Статистика  
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=owner6&show_icons=true&theme=default" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=owner6&show_icons=true&theme=onedark" alt="GitHub Stats"/>
 </div>
 
 <!--START_SECTION:waka-->
