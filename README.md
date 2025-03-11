@@ -24,13 +24,13 @@
 ---
 
 ## 🌟 Мої досягнення  
-[![Trophy](https://github-profile-trophy.vercel.app/?username=owner6&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=owner6&theme=default)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📊 GitHub Статистика  
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=owner6&show_icons=true&theme=onedark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=owner6&show_icons=true&theme=default" alt="GitHub Stats"/>
 </div>
 
 <!--START_SECTION:waka-->
