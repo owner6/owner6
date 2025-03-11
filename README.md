@@ -26,13 +26,13 @@
 ## 🌟 Мої досягнення  
 [![Trophy](https://github-profile-trophy.vercel.app/?username=owner6&theme=default)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-## 📊 GitHub Статистика  
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=owner6&show_icons=true&theme=default" alt="GitHub Stats"/>
 </div>
 
+---
+
+## 📊 GitHub Статистика  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2026%20mins-blue)
 
