@@ -42,8 +42,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 100 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 37 Public Repositories 
@@ -111,7 +109,7 @@ Less                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/owner6/owner6/main/assets/bar_graph.png)
 
 
- Last Updated on 29/03/2025 18:43:02 UTC
+ Last Updated on 30/03/2025 18:42:16 UTC
 <!--END_SECTION:waka-->
 
 
