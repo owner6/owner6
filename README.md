@@ -42,6 +42,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 119 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 37 Public Repositories 
@@ -75,21 +77,16 @@ Sunday                   204 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-JavaScript               6 mins              ████████████████░░░░░░░░░   64.94 % 
-Vue.js                   3 mins              █████████░░░░░░░░░░░░░░░░   34.85 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-bazar4ik-back            6 mins              ████████████████░░░░░░░░░   65.15 % 
-bazar4ik-front           3 mins              █████████░░░░░░░░░░░░░░░░   34.85 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,7 +106,7 @@ Less                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/owner6/owner6/main/assets/bar_graph.png)
 
 
- Last Updated on 10/04/2025 18:43:53 UTC
+ Last Updated on 11/04/2025 18:45:52 UTC
 <!--END_SECTION:waka-->
 
 
