@@ -75,16 +75,19 @@ Sunday                   204 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   7 mins              ███████████████████████░░   93.36 % 
+JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+bazar4ik-front           7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,7 +107,7 @@ Less                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/owner6/owner6/main/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2025 18:42:57 UTC
+ Last Updated on 14/04/2025 18:46:31 UTC
 <!--END_SECTION:waka-->
 
 
