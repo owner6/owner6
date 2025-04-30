@@ -34,15 +34,13 @@
 
 ## 📊 GitHub Статистика  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 120 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -113,7 +111,7 @@ Less                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/owner6/owner6/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2025 18:45:49 UTC
+ Last Updated on 30/04/2025 18:46:52 UTC
 <!--END_SECTION:waka-->
 
 
