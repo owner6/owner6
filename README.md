@@ -42,6 +42,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 120 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 37 Public Repositories 
@@ -75,16 +77,18 @@ Sunday                   204 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   6 mins              ██████████████████░░░░░░░   71.44 % 
+JavaScript               2 mins              ███████░░░░░░░░░░░░░░░░░░   28.56 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+bazar4ik-front           6 mins              ██████████████████░░░░░░░   71.44 % 
+bazar4ik-back            2 mins              ███████░░░░░░░░░░░░░░░░░░   28.56 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,7 +108,7 @@ Less                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/owner6/owner6/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2025 18:48:17 UTC
+ Last Updated on 16/05/2025 18:47:05 UTC
 <!--END_SECTION:waka-->
 
 
