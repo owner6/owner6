@@ -34,9 +34,9 @@
 
 ## 📊 GitHub Статистика  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -75,16 +75,19 @@ Sunday                   204 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               3 mins              █████████████░░░░░░░░░░░░   51.26 % 
+HTML                     3 mins              ███████████░░░░░░░░░░░░░░   42.17 % 
+CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+test0                    7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,7 +107,7 @@ Less                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/owner6/owner6/main/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2025 18:49:49 UTC
+ Last Updated on 17/06/2025 18:49:55 UTC
 <!--END_SECTION:waka-->
 
 
