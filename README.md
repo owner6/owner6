@@ -34,6 +34,8 @@
 
 ## 📊 GitHub Статистика  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2024%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -104,7 +106,7 @@ Less                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/owner6/owner6/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2025 18:54:38 UTC
+ Last Updated on 01/08/2025 18:53:55 UTC
 <!--END_SECTION:waka-->
 
 
