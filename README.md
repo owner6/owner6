@@ -13,7 +13,7 @@
 ---
 
 ## 🔭 Над чим я працюю  
-- [Bazar4ik](https://github.com/owner6/bazar4ik-front) – мій поточний проєкт, де я застосовую Vue.js для створення зручного фронтенду.
+- [Kino-Plenerowe](https://github.com/owner6/Kino-Plenerowe-Backend) – мій поточний проєкт
 
 ## 🌱 Що я вивчаю  
 - Поглиблюю знання у **Vue.js** та досліджую нові підходи до розробки.
@@ -25,10 +25,6 @@
 
 ## 🌟 Мої досягнення  
 [![Trophy](https://github-profile-trophy.vercel.app/?username=owner6&theme=default)](https://github.com/ryo-ma/github-profile-trophy)
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=owner6&show_icons=true&theme=default" alt="GitHub Stats"/>
-</div>
 
 ---
 
