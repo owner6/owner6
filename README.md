@@ -68,20 +68,16 @@ Sunday                   272 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-JavaScript               14 mins             ████████████████░░░░░░░░░   62.22 % 
-Markdown                 4 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-CSS                      3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tamagochi                23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -101,7 +97,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/owner6/owner6/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2025 18:46:50 UTC
+ Last Updated on 25/10/2025 18:44:16 UTC
 <!--END_SECTION:waka-->
 
 
