@@ -25,7 +25,7 @@
 
 ## 📊 GitHub Статистика  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -68,16 +68,21 @@ Sunday                   272 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     52 mins             ██████████░░░░░░░░░░░░░░░   38.44 % 
+YAML                     32 mins             ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
+Other                    20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+JavaScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   2 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+rs-business-api          1 hr 31 mins        █████████████████░░░░░░░░   67.40 % 
+rs-webinar               44 mins             ████████░░░░░░░░░░░░░░░░░   32.60 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -97,7 +102,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/owner6/owner6/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2025 18:49:07 UTC
+ Last Updated on 01/11/2025 18:43:14 UTC
 <!--END_SECTION:waka-->
 
 
