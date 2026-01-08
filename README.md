@@ -68,16 +68,21 @@ Sunday                   272 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 12 mins             █████████░░░░░░░░░░░░░░░░   34.13 % 
+Bash                     11 mins             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+Other                    9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
+TSConfig                 4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   37 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+inner_child_site_next_js-26 mins             ██████████████████░░░░░░░   70.27 % 
+inner_child_supabase-main11 mins             ███████░░░░░░░░░░░░░░░░░░   29.73 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  37 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -97,7 +102,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/owner6/owner6/main/assets/bar_graph.png)
 
 
- Last Updated on 07/01/2026 18:56:20 UTC
+ Last Updated on 08/01/2026 18:53:21 UTC
 <!--END_SECTION:waka-->
 
 
