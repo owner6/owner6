@@ -25,6 +25,8 @@
 
 ## 📊 GitHub Статистика  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-118%20hrs%2022%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -95,7 +97,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/owner6/owner6/main/assets/bar_graph.png)
 
 
- Last Updated on 03/02/2026 19:25:45 UTC
+ Last Updated on 04/02/2026 19:13:32 UTC
 <!--END_SECTION:waka-->
 
 
