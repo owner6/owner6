@@ -18,8 +18,5 @@
 ## 🌱 Що я вивчаю  
 - Почав вивчати **react** та досліджую нові підходи до розробки.
 
-## 🎥 YouTube  
-- --
-
 ## 💡 Хоббі  
 guitar, linux, programming, computer hardware
