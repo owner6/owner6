@@ -16,3 +16,6 @@ Automation: Створення ШІ-агентів для автоматизац
 💡 Про мене:
 🐧 Linux Enthusiast: Використовую Arch Linux як основну систему (Sway). Знаю, як витиснути максимум із заліза.
 🎸 Hobbies: Гітара, bitcoin, ai, programming, computer hardware.
+
+Як зі мною зв'язатися
+Email: owner1147@gmail.com
