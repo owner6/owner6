@@ -10,7 +10,7 @@ Automation & Infrastructure: Linux (Arch Linux Power User), AWS, Docker, Git/Git
 
 🤖 AI & Content Creation (Моя суперсила)
 AI Content: Генерація відео, графіки та музики (Suno, Udio) для бізнесу.
-TikTok Strategy: Розвиток каналів (маю власний кейс на 3600+ підписників).
+TikTok Strategy: Розвиток каналів (маю власний кейс на 3300+ підписників).
 Automation: Створення ШІ-агентів для автоматизації рутинних завдань.
 
 💡 Про мене:
