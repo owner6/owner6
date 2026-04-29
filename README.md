@@ -1,22 +1,18 @@
-# 👋 Привіт, я Vladyslav  
-### Full Stack Developer  
+🚀 Vladyslav | Full-Stack Developer & AI Content Strategist
+Я не просто пишу код — я створюю продукти, які працюють на бізнес. Поєдную глибоку технічну експертизу з розробки на Node.js/Vue із креативним просуванням у TikTok за допомогою штучного інтелекту.
 
-Я розробник веб-додатків із досвідом створення інтерфейсів за допомогою **Vue.js** та бекенду на **Node.js**. Умію реалізовувати макети з Figma, працювати з базами даних і розгортати проєкти.
+Мій підхід: повний цикл від ідеї до клієнта. Оплата за результат.
 
----
+🛠 Стек технологій та інструменти
+Frontend: Vue.js (Composition API), Vue, React, Tailwind CSS, SCSS, Axios, Vue Router.
+Backend & DB: Node.js, Express.js, Prisma ORM, PostgreSQL, REST API & Integrations.
+Automation & Infrastructure: Linux (Arch Linux Power User), AWS, Docker, Git/GitHub, Telegram Bots & Scraping.
 
-## 🛠 Мої навички  
-- **Frontend**: JavaScript, HTML/CSS, Vue.js, Vue Router, Vue Composition API, SCSS, Tailwind, Axios  
-- **Backend**: Node.js, Express.js, Prisma ORM, PostgreSQL  
-- **Інструменти та технології**: NPM, AWS, Linux, Blockchain, Git, GitHub, Postman, Trello  
+🤖 AI & Content Creation (Моя суперсила)
+AI Content: Генерація відео, графіки та музики (Suno, Udio) для бізнесу.
+TikTok Strategy: Розвиток каналів (маю власний кейс на 3600+ підписників).
+Automation: Створення ШІ-агентів для автоматизації рутинних завдань.
 
----
-
-## 🔭 Над чим я працюю  
-- --
-
-## 🌱 Що я вивчаю  
-- Почав вивчати **react** та досліджую нові підходи до розробки.
-
-## 💡 Хоббі  
-guitar, linux, programming, computer hardware
+💡 Про мене:
+🐧 Linux Enthusiast: Використовую Arch Linux як основну систему (Sway). Знаю, як витиснути максимум із заліза.
+🎸 Hobbies: Гітара, bitcoin, ai, programming, computer hardware.
