@@ -1,21 +1,21 @@
 🚀 Vladyslav | Full-Stack Developer & AI Specialist
-Я не просто пишу код — я створюю продукти, які працюють на бізнес. Поєдную глибоку технічну експертизу з розробки на Node.js/Vue із креативним просуванням у TikTok за допомогою штучного інтелекту.
+##Я не просто пишу код — я створюю продукти, які працюють на бізнес. Поєдную глибоку технічну експертизу з розробки на Node.js/Vue із креативним просуванням у TikTok за допомогою штучного інтелекту.
 
-Мій підхід: повний цикл від ідеї до клієнта. Оплата за результат.
+##Мій підхід: повний цикл від ідеї до клієнта. Оплата за результат.
 
 🛠 Стек технологій та інструменти
-Frontend: Vue.js (Composition API), Vue, React, Tailwind CSS, SCSS, Axios, Vue Router.
-Backend & DB: Node.js, Express.js, Prisma ORM, PostgreSQL, REST API & Integrations.
-Automation & Infrastructure: Linux (Arch Linux Power User), AWS, Docker, Git/GitHub, Telegram Bots & Scraping.
+##Frontend: Vue.js (Composition API), Vue, React, Tailwind CSS, SCSS, Axios, Vue Router.
+##Backend & DB: Node.js, Express.js, Prisma ORM, PostgreSQL, REST API & Integrations.
+##Automation & Infrastructure: Linux (Arch Linux Power User), AWS, Docker, Git/GitHub, Telegram Bots & Scraping.
 
 🤖 AI & Content Creation
-AI Content: Генерація відео, графіки та музики (Suno) для бізнесу.
-TikTok Strategy: Розвиток каналів (маю власний кейс).
-Automation: Створення ШІ-агентів для автоматизації рутинних завдань.
+##AI Content: Генерація відео, графіки та музики (Suno) для бізнесу.
+##TikTok Strategy: Розвиток каналів (маю власний кейс).
+##Automation: Створення ШІ-агентів для автоматизації рутинних завдань.
 
 💡 Про мене
-🐧 Linux Enthusiast: Використовую Arch Linux як основну систему (Sway). 
-🎸 Hobbies: AI, Створення музики.
+##🐧 Linux Enthusiast: Використовую Arch Linux як основну систему (Sway). 
+##🎸 Hobbies: AI, Створення музики.
 
 📫 Як зі мною зв'язатися
-email: owner1147@gmail.com
+##email: owner1147@gmail.com
