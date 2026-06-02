@@ -9,7 +9,7 @@
 ## 🛠 Стек технологій та інструменти
 
 ### **Frontend**
-* **Frameworks:** Vue.js (Composition API), Vue 2/3, React
+* **Frameworks:** Vue.js (Composition API), Vue 2/3
 * **Styling:** Tailwind CSS, SCSS, CSS3
 * **Architecture & Routing:** Vue Router, Axios, State Management
 
