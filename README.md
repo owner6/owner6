@@ -1,4 +1,4 @@
-🚀 Vladyslav | Full-Stack Developer & AI Content Strategist
+🚀 Vladyslav | Full-Stack Developer & AI Specialist
 Я не просто пишу код — я створюю продукти, які працюють на бізнес. Поєдную глибоку технічну експертизу з розробки на Node.js/Vue із креативним просуванням у TikTok за допомогою штучного інтелекту.
 
 Мій підхід: повний цикл від ідеї до клієнта. Оплата за результат.
