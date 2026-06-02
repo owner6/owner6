@@ -8,7 +8,7 @@ Frontend: Vue.js (Composition API), Vue, React, Tailwind CSS, SCSS, Axios, Vue R
 Backend & DB: Node.js, Express.js, Prisma ORM, PostgreSQL, REST API & Integrations.
 Automation & Infrastructure: Linux (Arch Linux Power User), AWS, Docker, Git/GitHub, Telegram Bots & Scraping.
 
-🤖 AI & Content Creation (Моя суперсила)
+🤖 AI & Content Creation
 AI Content: Генерація відео, графіки та музики (Suno) для бізнесу.
 TikTok Strategy: Розвиток каналів (маю власний кейс).
 Automation: Створення ШІ-агентів для автоматизації рутинних завдань.
