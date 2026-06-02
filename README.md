@@ -9,13 +9,13 @@ Backend & DB: Node.js, Express.js, Prisma ORM, PostgreSQL, REST API & Integratio
 Automation & Infrastructure: Linux (Arch Linux Power User), AWS, Docker, Git/GitHub, Telegram Bots & Scraping.
 
 🤖 AI & Content Creation (Моя суперсила)
-AI Content: Генерація відео, графіки та музики (Suno, Udio) для бізнесу.
+AI Content: Генерація відео, графіки та музики (Suno) для бізнесу.
 TikTok Strategy: Розвиток каналів (маю власний кейс).
 Automation: Створення ШІ-агентів для автоматизації рутинних завдань.
 
 💡 Про мене
-🐧 Linux Enthusiast: Використовую Arch Linux як основну систему (Sway). Знаю, як витиснути максимум із заліза. 
-🎸 Hobbies: Гітара, bitcoin, ai, programming, computer hardware.
+🐧 Linux Enthusiast: Використовую Arch Linux як основну систему (Sway). 
+🎸 Hobbies: AI, Створення музики.
 
 📫 Як зі мною зв'язатися
 email: owner1147@gmail.com
